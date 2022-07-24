@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 4 Scala sources to /Users/stefanolori/workspace/dev/oth/new-sparknlp/custom-serde/target/scala-2.12/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mNon-compiled module 'compiler-bridge_2.12' for Scala 2.12.15. Compiling...[0m
+[0m[[0m[0minfo[0m] [0m[0m  Compilation completed in 6.569s.[0m
+[0m[[0m[0minfo[0m] [0m[0mdone compiling[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 17 s, completed 24 Jul 2022, 11:19:50[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m
