@@ -7,4 +7,4 @@ Scala/Java study of custom serde operations
 $ sbt clean run
 ```
 
-and pick a nnumber in [1, 2, 3] to execute the program of choice
+and pick a number in [1, 2, 3] to execute the program of choice
